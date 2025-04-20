@@ -15,7 +15,6 @@ Developer and admin utility module for RedM, developed by Shepard & iiRedDev (AL
 1. Place this folder in your server's `resources` directory.
 2. Add the resource to your `server.cfg`:
    ```
-   ensure infinity_core        # Module Framework core
    ensure infinity_devmode     # Module DevMode (OPTIONAL)
    ```
 3. Configure the files as needed for your development or admin workflow.
